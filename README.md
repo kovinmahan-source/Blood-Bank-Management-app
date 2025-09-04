@@ -16,6 +16,10 @@ A simple Node.js + Express web app for blood donation management.
 - **MongoDB Database:** Stores all donor info.
 
 ---
+## Screenshots
+<img width="1894" height="895" alt="Screenshot 2025-09-04 212623" src="https://github.com/user-attachments/assets/40fb80bc-9bc7-4b07-8f9e-cafa1317d9ab" />
+<img width="1889" height="911" alt="Screenshot 2025-09-04 212522" src="https://github.com/user-attachments/assets/5dc6a5a6-ff1b-41b5-890f-8361ee4c0f8e" />
+
 
 ## Getting Started
 
